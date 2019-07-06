@@ -36,6 +36,13 @@ main {
 	padding: 2% 0;
 }
 
+main h2 {
+	font-weight: 500;
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 2%;
+}
+
 main p {
 	padding: 2%;
 }
