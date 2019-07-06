@@ -33,6 +33,7 @@ main {
 	width: 100%;
 	background-color: #fffadd;
 	color: #505050;
+	padding: 2% 0;
 }
 
 main p {
@@ -44,4 +45,11 @@ main img {
 	max-width: 400px;
 	display: block;
 	margin: auto;
+}
+
+footer {
+	background-color: #946e49;
+	color: #ffffff;
+	text-align: center;
+	padding: 2% 0;
 }
