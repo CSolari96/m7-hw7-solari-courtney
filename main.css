@@ -15,6 +15,15 @@
 
 body {
 	font-family: "Raleway", sans-serif;
-	background-color: #ffced7;
+	background-color: #abffff;
 	background-image: url("img/subtle-stripes.png");
+}
+
+header {
+	font-family: "Sacramento", cursive;
+	color: #ffffff;
+	background-color: #ffced7;
+	text-align: center;
+	font-size: 2.5rem;
+	padding: 3%;
 }
