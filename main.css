@@ -4,6 +4,7 @@
 	White: #ffffff;
 	Yellow: #fffadd;
 	Brown: #946e49;
+	Gray: ##505050;
 */
 
 /* Reset Rule */
@@ -24,6 +25,23 @@ header {
 	color: #ffffff;
 	background-color: #ffced7;
 	text-align: center;
-	font-size: 2.5rem;
+	font-size: 2rem;
 	padding: 3%;
+}
+
+main {
+	width: 100%;
+	background-color: #fffadd;
+	color: #505050;
+}
+
+main p {
+	padding: 2%;
+}
+
+main img {
+	width: 90%;
+	max-width: 400px;
+	display: block;
+	margin: auto;
 }
