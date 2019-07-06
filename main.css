@@ -52,6 +52,7 @@ main img {
 	max-width: 400px;
 	display: block;
 	margin: auto;
+	padding: 2%;
 }
 
 footer {
@@ -59,4 +60,23 @@ footer {
 	color: #ffffff;
 	text-align: center;
 	padding: 2% 0;
+}
+
+@media (min-width: 650px) {
+	header {
+		max-width: 980px;
+		margin: auto;
+		padding: 3% 0;
+	}
+
+	main {
+		display: flex;
+		max-width: 980px;
+		margin: auto;
+	}
+
+	footer {
+		max-width: 980px;
+		margin: auto;
+	}
 }
