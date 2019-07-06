@@ -68,6 +68,14 @@ main img {
 	padding: 2%;
 }
 
+.caption {
+	text-align: center;
+}
+
+.hide {
+	display: none;
+}
+
 footer {
 	background-color: #946e49;
 	color: #ffffff;
@@ -87,6 +95,10 @@ footer {
 		display: flex;
 		max-width: 980px;
 		margin: auto;
+	}
+
+	main section {
+		width: 50%;
 	}
 
 	footer {
