@@ -6,9 +6,15 @@
 	Brown: #946e49;
 */
 
+/* Reset Rule */
 * {
 	border: 0;
 	margin: 0;
 	padding: 0;
 }
 
+body {
+	font-family: "Raleway", sans-serif;
+	background-color: #ffced7;
+	background-image: url("img/subtle-stripes.png");
+}
